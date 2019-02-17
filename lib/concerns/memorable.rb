@@ -1,0 +1,3 @@
+class Memorable
+
+end
